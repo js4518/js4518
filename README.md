@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 게임 클라이언트 프로그래머를 꿈꾸는, 서강대학교 컴퓨터공학과 21학번 송종서입니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 서강대학교 컴퓨터공학과 21학번 송종서입니다. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
